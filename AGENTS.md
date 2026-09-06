@@ -18,5 +18,6 @@ Folders are created on demand. Don't scaffold empty ones.
 
 - Default branch is `main`. Small changes go straight to `main`.
 - Keep files plain markdown where possible.
+- Keep text files UTF-8 with LF line endings.
 - Don't add licenses, CI, or tooling unless asked.
 - This repo is mirrored to a Google Drive folder by manual copy. If you change files and have Drive access, copy the changed files there too. Details in `CLAUDE.md`.
